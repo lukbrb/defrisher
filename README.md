@@ -21,8 +21,11 @@ All the librairies should now be installed.
 You will first have to edit the script `fish_analyser.py` to add your own parameters, namely: the root directory where to look for the pictures, the average color the script should look for, or some filenames and image extension.
 
 Once this is done, you can run:  
+- on Windows
 
-    $ python fish_analyser.py  on Windows
+    $ python fish_analyser.py  
+    
+- on MacOS or Linux
 
-    $ python3 fish_analyser.py  on MacOS or Linux
+    $ python3 fish_analyser.py  
 
