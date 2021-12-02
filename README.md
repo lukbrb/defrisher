@@ -4,13 +4,15 @@ API and script to manipulate images and compute the average color or the brightn
 ### Installation
  If you have `git` installed :
  
-    $ git clone https://github.com/lukbrb/defrisher in the desired directory.
+    $ git clone https://github.com/lukbrb/defrisher 
+    
+in the desired directory.
  
- Otherwise you can downlaod the zip file.
+Otherwise you can downlaod the zip file.
  
  ### Requirements
  
- To make sure that you have the required librairies installed (numpy, matplotlib, Pillow), you can run in your terminal:
+To make sure that you have the required librairies installed (numpy, matplotlib, Pillow), you can run in your terminal:
  
     $ pip install -r requirements.txt
  
