@@ -23,9 +23,12 @@ You will first have to edit the script `fish_analyser.py` to add your own parame
 Once this is done, you can run:  
 - on Windows
 
+
     $ python fish_analyser.py  
     
+    
 - on MacOS or Linux
+
 
     $ python3 fish_analyser.py  
 
