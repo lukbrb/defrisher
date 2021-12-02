@@ -1,7 +1,7 @@
 # defrisher
 API and script to manipulate images and compute the average color or the brightness of the latter
 
-## 1. Installation
+## Installation
  If you have git installed :
  
  ``` git clone https://github.com/lukbrb/defrisher```
@@ -10,8 +10,7 @@ API and script to manipulate images and compute the average color or the brightn
  
  Otherwise you can downlaod the zip file.
  
- ## 2. Setup
- ### 2.1 Requirements
+ ## Requirements
  
  To make sure that you have the required librairies installed (numpy, matplotlib, Pillow), you can run in your terminal:
  
@@ -19,6 +18,12 @@ API and script to manipulate images and compute the average color or the brightn
  
 All the librairies should now be installed.
 
-## 3. Run the script
+## Run the script
 
 You will first have to edit the script `fish_analyser.py` to add your own parameters, namely: the root directory where to look for the pictures, the average color the script should look for, or some filenames and image extension.
+
+Once this is done, you can run:
+``` python fish_analyser.py``` on Windows
+
+``` python3 fish_analyser.py``` on MacOS or Linux
+
