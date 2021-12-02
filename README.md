@@ -12,7 +12,7 @@ API and script to manipulate images and compute the average color or the brightn
  
  To make sure that you have the required librairies installed (numpy, matplotlib, Pillow), you can run in your terminal:
  
-   $ pip install -r requirements.txt 
+    $ pip install -r requirements.txt
  
 All the librairies should now be installed.
 
@@ -22,7 +22,7 @@ You will first have to edit the script `fish_analyser.py` to add your own parame
 
 Once this is done, you can run:  
 
-   $ python fish_analyser.py on Windows
+   $ python fish_analyser.py  on Windows
 
-   $ python3 fish_analyser.py on MacOS or Linux
+   $ python3 fish_analyser.py  on MacOS or Linux
 
